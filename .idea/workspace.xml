@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49d0f8d2-eeef-432d-b2be-af091737a614" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/&quot;\x8e?\xd9P\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/&quot;\x91\x10\xf8\x9e\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/&quot;\x93\xcd\xd2\x14\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/&quot;\x96\x91\r\xa4\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/&quot;\x99\\\x19&gt;\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/&quot;\x9c\x1a\xd7\xbe\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/&quot;\x9e\xe0\x8e\x94\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/&quot;\xa1\x94Y\x90\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/&quot;\xa4O#^\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/selinium-fb-crawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl-ppl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver-v0.24.0-linux64.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bdZEkRmZJ2qsyECFfjhLYOA8C2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49d0f8d2-eeef-432d-b2be-af091737a614" name="Default Changelist" comment="" />
+      <created>1588963821707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588963821707</updated>
+      <workItem from="1588963822935" duration="3801000" />
+      <workItem from="1588978437708" duration="4529000" />
+      <workItem from="1589017490994" duration="110000" />
+      <workItem from="1589051370805" duration="708000" />
+      <workItem from="1589403269098" duration="605000" />
+      <workItem from="1589421062250" duration="27000" />
+      <workItem from="1589478961910" duration="1572000" />
+      <workItem from="1589490432911" duration="4900000" />
+      <workItem from="1589525163755" duration="622000" />
+      <workItem from="1589527871741" duration="27000" />
+      <workItem from="1589750654553" duration="118000" />
+      <workItem from="1589840410711" duration="2323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="682" y="357" width="612" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589479805549">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="682" y="357" width="612" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1589479805549" />
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1589750768345">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1589750768345" />
+  </component>
+</project>
