@@ -1,0 +1,19 @@
+{
+  "name": "selinium-fb-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/shahriar_ibn_tofael/fb-scrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/shahriar_ibn_tofael/fb-scrawler#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
