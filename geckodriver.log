@@ -194,3 +194,16 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
 Exiting due to channel error.
 Exiting due to channel error.
+1592246277462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HAlcl018gLkF"
+1592246279699	Marionette	INFO	Listening on port 42039
+1592246279774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+1592246340943	Marionette	INFO	Stopped listening on port 42039
+1592246390360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.q6ULTmbvhMF6"
+1592246392590	Marionette	INFO	Listening on port 33249
+1592246392667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
