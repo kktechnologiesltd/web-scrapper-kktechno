@@ -4,7 +4,7 @@ Public Data Scraping using Selenium
 ## What it does
 It start a browser, logs into facebook, goes to an url of a search page, extract result using XPATH
 
-** python crawl.py **
+*python crawl.py
 python crawl.py
 
 it should launch browser and do programmed stuff
