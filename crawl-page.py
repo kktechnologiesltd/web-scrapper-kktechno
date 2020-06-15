@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 import time
 import uuid
-browser = webdriver.Chrome()
+browser = webdriver.Firefox()
 browser.get('https://facebook.com')
 elem = browser.find_element_by_name("email")
 elem.clear()
@@ -20,14 +20,12 @@ time.sleep(2.4)
 
 browser.get('https://www.facebook.com/pg/Golden-Life-Fashion-Light-House-1346537318758044/posts/?ref=page_internal')
 
-
-# Get scroll height
 i=1
 
 while True:
     #print browser.execute_script("return document.body")
-    browser.execute_script("window.scrollTo(0, window.scrollY + 200)")
-    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    #browser.execute_script("window.scrollTo(0, window.scrollY + 200)")
+    #browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
     eles = browser.find_element(By.XPATH, '//*[@id="content_container"]')
     print eles.get_attribute("innerHTML")

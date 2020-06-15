@@ -34,7 +34,7 @@ readFiles('contents/pages/', function(filename, content) {
     //console.log($('#PagesProfileHomeSecondaryColumnPagelet').text()+"\n\n\n");
     //console.log($('.userContentWrapper').text()+"\n\n\n");
     //console.log($('.userContentWrapper').text()+"\n\n\n");
-    $('.mtm').each(function(e) {
+    $('.profileLink').each(function(e) {
         $(this).html();
 
 })

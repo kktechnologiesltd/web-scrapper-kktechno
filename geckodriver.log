@@ -58,3 +58,139 @@ Exiting due to channel error.
 1589480626330	Marionette	WARN	TLS certificate errors will be ignored for this session
 1589480668598	Marionette	INFO	Stopped listening on port 44861
 1589480668951	Marionette	INFO	Stopped listening on port 38223
+1592064740666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3XOB3f1TmCD6"
+1592064744083	Marionette	INFO	Listening on port 40107
+1592064744195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+1592064790993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NPfNqYi6SJMm"
+1592064793278	Marionette	INFO	Listening on port 46623
+1592064793305	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592064798654	Marionette	INFO	Stopped listening on port 40107
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+1592064892314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BFUPwuF5Advn"
+1592064894326	Marionette	INFO	Listening on port 42849
+1592064894442	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1592064909100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rRkyRx9zLknq"
+1592064911475	Marionette	INFO	Listening on port 42777
+1592064911509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592065122583	Marionette	INFO	Stopped listening on port 46623
+1592065122653	Marionette	INFO	Stopped listening on port 42777
+1592065146048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EnduakrC0Ujb"
+1592065148256	Marionette	INFO	Listening on port 43499
+1592065148355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+1592065176261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LzyWavReM6KR"
+1592065178303	Marionette	INFO	Listening on port 42479
+1592065178370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+1592065243760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eWYxUBr06lHE"
+1592065246168	Marionette	INFO	Listening on port 38209
+1592065246191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592065249098	Marionette	INFO	Stopped listening on port 42479
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592065250496	Marionette	INFO	Stopped listening on port 43499
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+1592065295684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.soDKMheOhszi"
+1592065297870	Marionette	INFO	Listening on port 42813
+1592065297902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/Xzoi3bwhRtX.js?_nc_x=IoqZb2eEbi3, line 42: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1592245374970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qtWEqXJvQfVU"
+1592245378082	Marionette	INFO	Listening on port 45009
+1592245378092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+1592245435269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SgcyevojPkpz"
+1592245437466	Marionette	INFO	Listening on port 42743
+1592245437478	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/3ZgfEvZQUiT.js?_nc_x=IoqZb2eEbi3, line 46: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.

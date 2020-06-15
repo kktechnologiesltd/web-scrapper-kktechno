@@ -2,49 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49d0f8d2-eeef-432d-b2be-af091737a614" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/&quot;\x8e?\xd9P\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/&quot;\x91\x10\xf8\x9e\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/&quot;\x93\xcd\xd2\x14\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/&quot;\x96\x91\r\xa4\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/&quot;\x99\\\x19&gt;\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/&quot;\x9c\x1a\xd7\xbe\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/&quot;\x9e\xe0\x8e\x94\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/&quot;\xa1\x94Y\x90\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/&quot;\xa4O#^\x99Z\x11\xea\x8b\xf9L\xccj'\x03\x04&quot;" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/32998244995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/356cb16c995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/383a7474995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/3b071248995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/3de3885c995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/40aaef26995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/437f65ce995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/46502464995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/491d555e995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/4bec3fb6995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/4ec0c2d4995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/518b1d84995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/54591b56995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/57235de2995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/59e92aa2995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/5cb25c7c995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/5f97f37a995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/626b9048995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/653a50ca995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/6806e412995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/6acddeee995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/6d9b2604995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/70680514995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/7331463e995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/75ff442e995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/78ccea6c995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/7bee4452995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/7eb9ce7c995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/81872988995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/84555090995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contents/873e5a22995b11ea8bf94ccc6a270304.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl-page.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl-page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse-pa.js" beforeDir="false" afterPath="$PROJECT_DIR$/parse-pa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/parse.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +81,9 @@
       <workItem from="1590762795384" duration="195000" />
       <workItem from="1590763642844" duration="1111000" />
       <workItem from="1590848734419" duration="3847000" />
-      <workItem from="1590955161527" duration="985000" />
+      <workItem from="1590955161527" duration="1719000" />
+      <workItem from="1590959184268" duration="6000" />
+      <workItem from="1591045397313" duration="1787000" />
     </task>
     <servers />
   </component>

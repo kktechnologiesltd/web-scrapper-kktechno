@@ -24,14 +24,24 @@ function readFiles(dirname, onFileContent, onError) {
 }
 
 function onFileContent(filename, content) {
-    const $ = cheerio.load(fs.readFileSync('contents/'+filename));
+    const $ = cheerio.load(fs.readFileSync('contents/pages/'+filename));
 }
 var data = {};
-readFiles('contents/', function(filename, content) {
+readFiles('contents/pages/', function(filename, content) {
     //console.log(filename,content);
     $ = cheerio.load(content);
-    $('img').each(function(){
-       console.log("HERE",$(this).attr("src"))
+
+    var myPromise = new Promise(function(resolve, reject){
+    }).then(function(result){
+
+    })
+    $('.userContent').each(function($f){
+        console.log($f)
+       console.log("CONTENT",$(this).html())
+
+    })
+    $('.scaledImageFitHeight').each(function(){
+        console.log("IMAGES",$(this).attr('src'))
     })
     //data[filename] = content;
     $ = null
