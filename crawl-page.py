@@ -8,11 +8,11 @@ browser = webdriver.Firefox()
 browser.get('https://facebook.com')
 elem = browser.find_element_by_name("email")
 elem.clear()
-elem.send_keys("01758403758")
+elem.send_keys("<fb_email>")
 
 elem2 = browser.find_element_by_name("pass")
 elem2.clear()
-elem2.send_keys("kandksons")
+elem2.send_keys("<fb_password>")
 elem2.send_keys(Keys.RETURN)
 
 time.sleep(2.4)
