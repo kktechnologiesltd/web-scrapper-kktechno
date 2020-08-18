@@ -27,9 +27,13 @@ while True:
     #browser.execute_script("window.scrollTo(0, window.scrollY + 200)")
     #browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
-    eles = browser.find_element(By.XPATH, '//*[@id="content_container"]')
+    #    eles = browser.find_element(By.XPATH, '//*[@id="content_container"]')
+    eles = browser.find_element(By.XPATH, '//*[contains(@id,"pagelet_timeline_main_column")]')
+   
     print eles.get_attribute("innerHTML")
 
+    s = eles.find_element_by_tag_name("img")
+    print s
 
 
     if i==10:
